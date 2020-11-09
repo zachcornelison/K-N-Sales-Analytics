@@ -1,5 +1,5 @@
 # K-N-Sales-Analytics
-An analytical report of sales and customer data for K&amp;N Interior Consignment, a furniture consignment store located in Oklahoma City, OK.
+An analytical report of sales, product, and customer data for K&amp;N Interior Consignment, a furniture consignment store located in Oklahoma City, OK.
 
 ## Customer analysis
 Report includes geospatial analysis of customers, broken down by date and level of spending. Mapping also includes competitor locations to visualize customer clusters in relation to these competitors. 

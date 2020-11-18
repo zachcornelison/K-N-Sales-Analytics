@@ -4,7 +4,7 @@ An analytical report of sales, product, and customer data for K&amp;N Interior C
 ## Customer analysis
 Report includes geospatial analysis of customers, broken down by date and level of spending. Mapping also includes competitor locations to visualize customer clusters in relation to these competitors. 
 
-## Sales analysis
+## Sales Totals analysis
 Report includes common sales metrics from store opening in 2015 to current date of data download (08/12/2020). Metrics evaluated include:
 - Total sales amount to date
 - Sales totals across each day of the week (historically)

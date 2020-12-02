@@ -20,13 +20,11 @@ Report includes common sales metrics from store opening in 2015 to current date 
 ## Product Analysis
 Report includes product analysis across various product categories, entry and sale dates, margins, fees, and net profit.
 Metrics evaluated include:
-**Store items:**
 - What are the top 10 selling items to date
 - Statistical summary of product pricing
 - What are the top selling items by year, quarter
 - When do the highest priced items sell
 - Percent change in expensive item sales from 2019-2020
-**Tickets:**
 - Avg ticket historically
 - Avg ticket by year, quarter, month
 - Avg ticket percent change from last year to this year¶

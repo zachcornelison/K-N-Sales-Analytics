@@ -1,5 +1,5 @@
 # K-N-Sales-Analytics
-An analytical report of sales, product, and customer data for K&amp;N Interior Consignment, a furniture consignment store located in Oklahoma City, OK.
+An analytical report of sales, product, and customer data for K&amp;N Interior Consignment, a furniture consignment store located in Oklahoma City, OK. Utilized Python and Pandas for data cleaning and analysis, then exported datasets to Tableau to create interactive dashboards and static visualizations. Sample images from both dashboards can be found in the repo folder titled "Dashboards" above. 
 
 ## Customer Analysis
 Report includes geospatial analysis of customers, broken down by date and level of spending. Mapping also includes competitor locations to visualize customer clusters in relation to these competitors. 
